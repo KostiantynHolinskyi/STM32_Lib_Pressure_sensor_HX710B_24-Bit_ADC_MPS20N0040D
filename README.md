@@ -5,4 +5,4 @@ STM32 Lib Pressure sensor HX710B 24-Bit ADC MPS20N0040D
 
 Инициализация и примеры работы в файле example.txt
 
-По всем вопросам пишите: golinskiy.konstantin@gmail.com
+По всем вопросам пишите: kostiantyn.holinskyi@gmail.com
